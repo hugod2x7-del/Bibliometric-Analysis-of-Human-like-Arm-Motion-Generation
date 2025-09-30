@@ -20,11 +20,11 @@
 
 If you use this dataset, please cite the original article:
 
-> Hugo Remelgado. *"[Título do artigo]"*. Revista, Ano. DOI: [link]
+> Hugo Remelgado. *"[An Intelligent Framework for Bibliometric Analysis and Literature Review of Human-like Arm Motion Generation]"*. Revista, Ano. DOI: [link]
 
 Additionally, you may cite this repository as:
 
-> [Autores]. *Bibliometric-Analysis-of-Human-like-Arm-Motion-Generation*. GitHub repository. Available at: [URL do repositório]
+> [Hugo Remelgado]. *Bibliometric-Analysis-of-Human-like-Arm-Motion-Generation*. GitHub repository. Available at: [https://github.com/hugod2x7-del/Bibliometric-Analysis-of-Human-like-Arm-Motion-Generation/tree/main]
 
 ---
 
