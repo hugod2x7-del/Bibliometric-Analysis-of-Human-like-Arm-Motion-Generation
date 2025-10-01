@@ -31,7 +31,7 @@ Table 1: SUMMARY FROM THE MANUAL ANALYSIS OF THE SAMPLE ARTICLE COLLECTION
 |                           | Reinforcement learning          | 0         |
 |                           | Learning by demonstration       | 1         |
 
-
+*Nota: categorias com * podem ser discutíveis pelo valor entre parênteses.
 
 Tabela 2: RoBERTa-large-MNLI First Test
 | Topic              | TP | FP | FN | TN | F1-score | Accuracy |
