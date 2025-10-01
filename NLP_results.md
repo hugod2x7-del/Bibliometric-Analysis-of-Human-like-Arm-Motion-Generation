@@ -27,7 +27,10 @@ Table 1: SUMMARY FROM THE MANUAL ANALYSIS OF THE SAMPLE ARTICLE COLLECTION
 |                           | Handpath planarity              | 0         |
 |                           | Spatiotemporal correspondence   | 1         |
 |                           | RULA (rapid upper limb assessment)| 0       |
-| AI                        | Deep learning                  | 1         |
+| AI                        | Deep learning                   | 1         |
+|                           | Reinforcement learning          | 0         |
+|                           | Learning by demonstration       | 1         |
+
 
 
 Tabela 2: RoBERTa-large-MNLI First Test
@@ -64,8 +67,3 @@ Tabela 4: SciBERT Performance
 | Human-likeness     | 8  | 25 | 17 | 89 | 0.276    | 0.698    |
 | AI                 | 16 | 2  | 0  | 0  | 0.941    | 0.889    |
 | Test Platform      | 7  | 11 | 0  | 0  | 0.560    | 0.389    |
-
-
-
-|                           | Reinforcement learning          | 0         |
-|                           | Learning by demonstration       | 1         |
