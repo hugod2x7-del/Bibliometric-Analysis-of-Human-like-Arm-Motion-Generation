@@ -8,13 +8,27 @@
 
 ---
 
-## 🔍 How to Use
+## ❓ How to Use
 
 1. Clone this repository or download it as a ZIP.  
 2. Import `list_of_articles.bib` into your reference manager (Zotero, Mendeley, EndNote).  
 3. Use `tabelas_totais.csv` and `redes_coautoria.gexf` in tools such as Excel, R, Python, Gephi, or VOSviewer for further analysis.  
 
 ---
+
+## 🔍 Research 
+- The article collection was obtained considering the following criteria
+
+  | **E#** | **Criteria**   | **Statement**                                                                 |
+  |--------|----------------|-------------------------------------------------------------------------------|
+  | E1     | Availability   | Full text of the papers not available in digital libraries                    |
+  | E2     | Language       | Full text of the papers not published in English                              |
+  | E3     | Year           | Papers not included in the year range of [2006–2024]                          |
+  | E4     | Scope          | Papers that do not focus on humanoid robots or related motion planning/generation |
+  | E5     | Topic Relevance| Papers that do not address arm/upper-limb motion, legibility, predictability, or human-like trajectories |
+  | E6     | Source Type    | Papers not published in peer-reviewed journals or conference proceedings      |
+
+- The results presented are from 4 different libraries
 
 ## 📖 Citation
 
