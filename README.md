@@ -31,7 +31,11 @@
 - The results presented are from 4 different libraries with the following search
   | **Library** | **Search Expression** |
   |-------------|-----------------------|
-  | IEEE explore |(TITLE-ABS-KEY (arm) OR TITLE-ABS-KEY (upper-limb)) AND (TITLE-ABS-KEY (human-like) OR TITLE-ABS-KEY (legible) OR TITLE-ABS-KEY (predictable)) AND (TITLE-ABS-KEY (motion) OR TITLE-ABS-KEY (movement) OR TITLE-ABS-KEY (trajectory)) AND (humanoid OR robot) AND (planning OR generation) AND PUBYEAR > 2005 AND (LIMIT-TO (LANGUAGE, "English")) AND (LIMIT-TO (SRCTYPE, "p") OR LIMIT-TO (SRCTYPE, "j"))|
+  | IEEE explore |(((arm OR upper-limb) AND (human-like OR legible OR predictable) AND (motion OR movement OR trajectory)) AND (humanoid OR robot) AND (planning OR generation) )
+E os seguintes filtros aplicados:
+-Conferences
+-Journals
+- 2006-2025|
   | Scopus |( TITLE-ABS-KEY ( arm ) OR TITLE-ABS-KEY ( upper-limb ) ) AND ( TITLE-ABS-KEY ( human-like ) OR TITLE-ABS-KEY ( legible ) OR TITLE-ABS-KEY ( predictable ) ) AND ( TITLE-ABS-KEY ( motion ) OR TITLE-ABS-KEY ( movement ) OR TITLE-ABS-KEY ( trajectory ) ) AND ( humanoid OR robot ) AND ( planning OR generation ) AND PUBYEAR > 2005 AND ( LIMIT-TO ( SRCTYPE , "p" ) OR LIMIT-TO ( SRCTYPE , "j" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )|
   | Web of Science| TS=(arm OR upper-limb) AND TS=(human-like OR legible OR predictable) AND TS=(motion OR movement OR trajectory) AND TS=(humanoid OR robot) AND TS=(planning OR generation) AND PY=(2006-2025) AND LA=(English) AND DT=(Article OR Proceedings Paper)|
   | ACM Digital Library| [[[Abstract: "arm"] OR [Abstract: "upper limb"]] AND [[Abstract: "human-like"] OR [Abstract: "legible"] OR [Abstract: "predictable"]] AND [[Abstract: "motion"] OR [Abstract: "movement"] OR [Abstract: "trajectory"]] AND [[Abstract: "humanoid"] OR [Abstract: "robot"]] AND [[Abstract: "planning"] OR [Abstract: "generation"]]] OR [[[Keywords: "arm"] OR [Keywords: "upper limb"]] AND [[Keywords: "human-like"] OR [Keywords: "legible"] OR [Keywords: "predictable"]] AND [[Keywords: "motion"] OR [Keywords: "movement"] OR [Keywords: "trajectory"]] AND [[Keywords: "humanoid"] OR [Keywords: "robot"]] AND [[Keywords: "planning"] OR [Keywords: "generation"]]] OR [[[Title: "arm"] OR [Title: "upper limb"]] AND [[Title: "human-like"] OR [Title: "legible"] OR [Title: "predictable"]] AND [[Title: "motion"] OR [Title: "movement"] OR [Title: "trajectory"]] AND [[Title: "humanoid"] OR [Title: "robot"]] AND [[Title: "planning"] OR [Title: "generation"]]] AND [E-Publication Date: (01/01/2006 TO 01/31/2025)] |
