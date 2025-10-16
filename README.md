@@ -5,7 +5,8 @@
 
 - **Data**: Full list of articles used in the study, available in CSV and BibTeX.  
 - **Results**: Tables with aggregated data and bibliometric indicators.   
-
+- **Bibliometric tools**: Lists several research and bibliographic analysis tools used, along with notes on their limitations and functionalities.
+- **Synonyms**: Describes the synonyms used for the bibliometric study
 ---
 
 ## ❓ How to Use
