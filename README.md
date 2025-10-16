@@ -12,7 +12,6 @@
 
 1. Clone this repository or download it as a ZIP.  
 2. Import `list_of_articles.bib` into your reference manager (Zotero, Mendeley, EndNote).  
-3. Use `tabelas_totais.csv` and `redes_coautoria.gexf` in tools such as Excel, R, Python, Gephi, or VOSviewer for further analysis.  
 
 ---
 
@@ -40,11 +39,11 @@
 
 If you use this dataset, please cite the original article:
 
-> Hugo Remelgado. *"[An Intelligent Framework for Bibliometric Analysis and Literature Review of Human-like Arm Motion Generation]"*. Revista, Ano. DOI: [link]
+> Authors. *"[An Intelligent Framework for Bibliometric Analysis and Literature Review of Human-like Arm Motion Generation]"*. Revista, Ano. DOI: [link]
 
 Additionally, you may cite this repository as:
 
-> [Hugo Remelgado]. *Bibliometric-Analysis-of-Human-like-Arm-Motion-Generation*. GitHub repository. Available at: [https://github.com/hugod2x7-del/Bibliometric-Analysis-of-Human-like-Arm-Motion-Generation/tree/main]
+> [Authors]. *Bibliometric-Analysis-of-Human-like-Arm-Motion-Generation*. GitHub repository. Available at: [https://github.com/hugod2x7-del/Bibliometric-Analysis-of-Human-like-Arm-Motion-Generation/tree/main]
 
 ---
 
