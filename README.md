@@ -40,8 +40,7 @@
 | After deduplication and E1–E6 criteria    | 439 |
 
 *Summary of document counts throughout the data collection and filtering pipeline.*
-> The dataset was progressively refined through several stages. Initially, 671 papers were identified across ACM Digital Library, IEEE Xplore, Scopus, and Web of Science. Of these, 604 were available for full-text download. After automated text extraction and initial quality filtering, 486 remained. Following deduplication and the application of inclusion/exclusion criteria (E1–E6), the final dataset comprised 439 papers.
-
+> The diagram illustrates the progressive refinement of the dataset used in this study. A total of 671 records were initially identified across ACM Digital Library, IEEE Xplore, Scopus, and Web of Science. After removing unavailable PDFs (n = 67), 604 documents were processed for text extraction. Following extraction and initial quality filtering, 486 records remained. Deduplication and the application of inclusion/exclusion criteria (E1–E6) resulted in a final corpus of 439 papers used for analysis.
 
 
 - The results presented are from 4 different libraries with the following search
