@@ -29,7 +29,8 @@
   | E6     | Source Type    | Papers not published in peer-reviewed journals or conference proceedings      |
 
 
-— Number of publications at each stage of the pipeline
+
+- Number of publications at each stage of the pipeline
 
 | Stage                                      | No. of articles |
 |-------------------------------------------|-----------------|
